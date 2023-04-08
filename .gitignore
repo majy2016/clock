@@ -2,3 +2,5 @@
 *.xml
 *.iml
 .idea/clock.iml
+build/
+dist/
